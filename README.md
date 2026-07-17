@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner"/>
+<img src="./banner.png" width="100%">
 </p>
-<h1 align="center">Hi  I'm Shabeena Shaikh</h1>
 
-<h3 align="center">
-Full Stack Developer • AI/ML Enthusiast
-</h3>
 
-<p align="center">
-Building scalable web applications, enterprise dashboards, secure REST APIs and AI-powered solutions.
-</p>
+
 
 <p align="center">
 
