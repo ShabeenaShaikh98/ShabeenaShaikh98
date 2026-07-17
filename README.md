@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner"/>
+</p>
 <h1 align="center">Hi  I'm Shabeena Shaikh</h1>
 
 <h3 align="center">
