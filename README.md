@@ -13,7 +13,7 @@
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 I am a Full Stack Developer with a Bachelor's degree in Information Technology and a strong interest in Artificial Intelligence and Machine Learning. I specialize in developing scalable web applications using React, TypeScript, Node.js, Express.js, and PostgreSQL. I enjoy building enterprise-grade applications, secure REST APIs, modern admin dashboards, and AI-powered solutions that solve real-world business problems. I am passionate about writing clean, maintainable code and continuously learning modern technologies.
 
 #  Tech Stack
@@ -52,9 +52,9 @@ I am a Full Stack Developer with a Bachelor's degree in Information Technology a
 
 ---
 
-# 🌟 Featured Projects
+#  Featured Projects
 
-## 💊 AI-Based Pharmacy Management System
+##  AI-Based Pharmacy Management System
 
 ✔ Inventory Management
 
@@ -74,7 +74,7 @@ I am a Full Stack Developer with a Bachelor's degree in Information Technology a
 
 ---
 
-## 🏢 Enterprise Admin Dashboard
+## Enterprise Admin Dashboard
 
 ✔ User Management
 
@@ -92,13 +92,13 @@ I am a Full Stack Developer with a Bachelor's degree in Information Technology a
 
 ---
 
-## 🌐 Portfolio Website
+##  Portfolio Website
 
 Modern responsive portfolio showcasing projects, technical skills and development journey.
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -110,7 +110,7 @@ Modern responsive portfolio showcasing projects, technical skills and developmen
 
 ---
 
-# 💻 Most Used Languages
+#  Most Used Languages
 
 <p align="center">
 
@@ -120,7 +120,7 @@ Modern responsive portfolio showcasing projects, technical skills and developmen
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -130,7 +130,7 @@ Modern responsive portfolio showcasing projects, technical skills and developmen
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -140,11 +140,11 @@ Modern responsive portfolio showcasing projects, technical skills and developmen
 
 ---
 
-# 🌍 Connect With Me
+#  Connect With Me
 
 <p>
 
-📧 Email
+ Email
 
 shabeenashaikh112000@gmail.com
 
@@ -152,7 +152,7 @@ shabeenashaikh112000@gmail.com
 
 <p>
 
-💼 LinkedIn
+ LinkedIn
 
 https://www.linkedin.com/in/shabeena-shaikh-59b737302/
 
@@ -160,17 +160,17 @@ https://www.linkedin.com/in/shabeena-shaikh-59b737302/
 
 <p>
 
-🌐 Portfolio
+ Portfolio
 
 https://my-portfolio-ju4u.onrender.com/
 
 </p>
 
-📍 Mumbai, India
+ Mumbai, India
 
 ---
 
-# 💼 Career Objective
+#  Career Objective
 
 Seeking opportunities as a Full Stack Developer where I can contribute to scalable, secure and high-performance software while continuously improving my expertise in software engineering, cloud technologies and Artificial Intelligence.
 
