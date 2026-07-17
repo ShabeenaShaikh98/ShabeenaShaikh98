@@ -1,16 +1,16 @@
 <p align="center">
-<img src="./banner.png" width="100%">
-</p>
+    <img src="./banner.svg" width="100%" />
+  </p>
 
 
 
+ 
+  
 
-<p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Backend+Developer;AI%2FML+Enthusiast;Always+Learning+New+Technologies" />
-
-</p>
-
+ 
+  
+<h1 align="center">Shabeena Shaikh</h1> <h3 align="center"> Full Stack Developer | AI/ML Enthusiast </h3> <p align="center"> React • TypeScript • Node.js • Express.js • PostgreSQL </p> <p align="center"> Building Scalable Enterprise Applications & AI-Powered Solutions </p>
 ---
 
 #  About Me
